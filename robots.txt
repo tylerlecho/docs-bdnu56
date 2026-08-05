@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-e0ti16.pixk.link/sitemap.xml
